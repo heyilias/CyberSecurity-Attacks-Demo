@@ -91,8 +91,4 @@ Install requirements (for MITM):
 ```bash
 pip install flask
 
----
 
-✅ **Next step:** Go to GitHub, create a new repo called `CyberSecurity-Attacks-Demo`, upload your scripts, add this `README.md`, and you’re good to go!
-
-Want me to generate the LICENSE and `.gitignore` for you too?
